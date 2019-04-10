@@ -1,5 +1,5 @@
-# parceljs-boilerplate
-### Project boilerplate for small and midsize projects.
+# FAQ script test
+### Testing external script in DR FAQ list
 
 Bundles with Parceljs both for development and deploy.
 Javascript (ES6) and css (SASS) bundled separately.
