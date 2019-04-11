@@ -31,7 +31,7 @@ export default class CanvasTest{
                         u, v
                     ],
                     radius:40,
-                    color:`hsl(${lerp(0, 360, u)}, ${lerp(10, 100, v)}%, ${lerp(20, 90, v)}%)`
+                    color:`hsl(${lerp(0, 360, u)}, ${lerp(10, 100, (v+u)/2)}%, ${lerp(20, 95, (v+u)/2)}%)`
                 })
             }
         }
