@@ -50,7 +50,6 @@ export default class CanvasTest{
             context.beginPath();
             context.arc(x, y, radius, 0, Math.PI * 2);
             context.fill();
-            
         })
     }
 }
